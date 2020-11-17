@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Desafio Intent</string>
+    <string name="seccion_carga_imagenes">Seccion Carga Imagenes</string>
+    <string name="Seccion_Carga_Imagenes" />
+    <string name="cargar_imagen">Cargar Imagen</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="imagen_cargada_por_usuario">imagen cargada por usuario</string>
+    <string name="logo_desafio_latam">logo desafio latam</string>
+    <string name="seccion_carga_imagenes">Seccion Carga Imagenes</string>
+    <string name="abrir_web_desafio_latam">Abrir Web DESAFIO LATAM</string>
+    <string name="compartir">Compartir</string>
+</resources>
